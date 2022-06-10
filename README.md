@@ -2,6 +2,7 @@
 ## PORTFOLIO
 
 **ge.teller**
+
 _React, Node.js, Express, MongoDB_
 
 - Developed and designed React site that collects live _Jagex_ data, processes it, and serves it to users as a stock-trading  interface. Users can then make purchases and track item trends via transactions, and user dashboard.
@@ -13,6 +14,7 @@ _React, Node.js, Express, MongoDB_
 - Stores user accounts and their respective transactions in a MongoDB database.
 
 **Draftboys**
+
 _React, TypeScript, Node.js, Express, MongoDB_
 
 - Developed and designed React site that simulates opening and drafting _Magic: The Gathering_ card packs with 4 players.
@@ -43,6 +45,7 @@ _JavaScript, Node.js, Express_
 ## WORK EXPERIENCE
 
 **Everyday Athlete** 
+
 _June 2018 – Present_, _New York, NY_
 
 Title: _Program Lead_  
@@ -54,6 +57,7 @@ Title: _Program Lead_
 - Wrote documentation to streamline and homogenize company management, and modernize methodologies.
 
 **Quality Imaging Services**
+
 _Mar. 2017 – May 2018_, _New York, NY_
 
 Title: _Project Coordinator_
@@ -66,7 +70,9 @@ Title: _Project Coordinator_
 
 ## EDUCATION
 
-**College of Staten Island, CUNY Aug. 2012 – April, 2016**
+**College of Staten Island, CUNY**
+
+_Aug. 2012 – April, 2016_
 
 _Bachelor of Arts in Music, Minor in French  Staten Island, NY_
 
@@ -76,4 +82,5 @@ _Bachelor of Arts in Music, Minor in French  Staten Island, NY_
 
 ## SKILLS
 **Proficient:** JavaScript, React, HTML, CSS/SASS, Node.js, Express, REST APIs, MongoDB, Git
+
 **Familiar:** TypeScript, Tailwind, Boostrap, SQL, Python, Flask
