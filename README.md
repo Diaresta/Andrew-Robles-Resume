@@ -1,3 +1,5 @@
+_____________________________________________________________________________________________________________________________________________________________
+
 # Andrew Robles
 
 ## WORK EXPERIENCE
@@ -49,6 +51,7 @@ _React, TypeScript, Node.js, Express, MongoDB_
 - Maintain and update database and API that serves over 2,500 objects that hold _MTG_ card data.
 
 - Implemented sort functions to parse API requests by card values and return formatted data that mirrors 14-card _MTG_ card packs.
+
 - Stores user contact form submissions in a MongoDB database.
 
 **Vandal**
@@ -65,21 +68,17 @@ _React_
 
 _JavaScript, Node.js, Express_
 
-- List your honors like _summa cum laude_ or Economics Honors Society; 3.X/4.0 GPA (list only if GPA is over 3.3)
-- Studied abroad in City, Country during spring/fall 20YY  semester (University Name)
-- Any other fun stuff like varsity sports, fraternity/sorority, or something that gives you a little color
+- Developed and designed site that allows users to upload _.slp_ files, parses the file data, and serves it to users as a head-to-head UI.
 
-## EDUCATION
+- Implemented multer to allow users to upload _.slp_ files.
+
+- Stores assets in local JSON files, which are fetched when parsed uploaded files match assets before being served to users.
 
 **College of Staten Island, CUNY**
 
 _Aug. 2012 – April, 2016_
 
 _Bachelor of Arts in Music, Minor in French  Staten Island, NY_
-
-- List your honors like _summa cum laude_ or Economics Honors Society; 3.X/4.0 GPA (list only if GPA is over 3.3)
-
-- Studied abroad in City, Country during spring/fall 20YY  semester (University Name)
 
 ## SKILLS
 **Proficient:** JavaScript, React, HTML, CSS/SASS, Node.js, Express, REST APIs, MongoDB, Git
