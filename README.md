@@ -16,7 +16,7 @@ Title: _Program Lead_
 
 - Wrote documentation to streamline and homogenize company management, and modernize methodologies.
 
-######**Quality Imaging Services**
+### **Quality Imaging Services**
 
 _Mar. 2017 – May 2018_, _New York, NY_
 
