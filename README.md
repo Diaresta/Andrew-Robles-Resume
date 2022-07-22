@@ -2,7 +2,9 @@
 
 ## WORK EXPERIENCE
 
-### Everyday Athlete, _June 2018 – Present_, _New York, NY_
+### Everyday Athlete
+
+_June 2018 – Present_, _New York, NY_
 
 Title: _Program Lead_  
 
@@ -72,7 +74,8 @@ _JavaScript, Node.js, Express_
 
 ## EDUCATION
 
-**College of Staten Island, CUNY**, _Aug. 2012 – April, 2016_
+**College of Staten Island, CUNY** 
+_Aug. 2012 – April, 2016_
 
 _Bachelor of Arts in Music, Minor in French  Staten Island, NY_
 
