@@ -30,7 +30,7 @@ Title: _Project Coordinator_
 
 ## PORTFOLIO
 
-**ge.teller**
+#### **ge.teller**
 
 _React, Node.js, Express, MongoDB_
 
