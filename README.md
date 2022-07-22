@@ -2,9 +2,7 @@
 
 ## WORK EXPERIENCE
 
-### Everyday Athlete
-
-_June 2018 – Present_, _New York, NY_
+### Everyday Athlete, _June 2018 – Present_, _New York, NY_
 
 Title: _Program Lead_  
 
