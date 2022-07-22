@@ -2,7 +2,7 @@
 
 ## WORK EXPERIENCE
 
-**Everyday Athlete** 
+###**Everyday Athlete** 
 
 _June 2018 – Present_, _New York, NY_
 
