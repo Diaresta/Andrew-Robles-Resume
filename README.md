@@ -1,4 +1,31 @@
 # Andrew Robles
+
+## WORK EXPERIENCE
+
+**Everyday Athlete** 
+
+_June 2018 – Present_, _New York, NY_
+
+Title: _Program Lead_  
+
+- Lead and managed a division of ~20 employees, coordinating with directors and core teams of the company.
+
+- Planned and executed quarterly programming, expanding company demographic and clientele.
+
+- Wrote documentation to streamline and homogenize company management, and modernize methodologies.
+
+**Quality Imaging Services**
+
+_Mar. 2017 – May 2018_, _New York, NY_
+
+Title: _Project Coordinator_
+
+- Sourced and acquired business partnerships with high-profile companies such as Läderach, Moët Hennessy, and Red Bull.
+
+- Guaranteed completion of client objectives by functioning as a liaison between client and production teams.
+
+- Created and maintained a company database of held and prospective client accounts.
+
 ## PORTFOLIO
 
 **ge.teller**
@@ -41,32 +68,6 @@ _JavaScript, Node.js, Express_
 - List your honors like _summa cum laude_ or Economics Honors Society; 3.X/4.0 GPA (list only if GPA is over 3.3)
 - Studied abroad in City, Country during spring/fall 20YY  semester (University Name)
 - Any other fun stuff like varsity sports, fraternity/sorority, or something that gives you a little color
-
-## WORK EXPERIENCE
-
-**Everyday Athlete** 
-
-_June 2018 – Present_, _New York, NY_
-
-Title: _Program Lead_  
-
-- Lead and managed a division of ~20 employees, coordinating with directors and core teams of the company.
-
-- Planned and executed quarterly programming, expanding company demographic and clientele.
-
-- Wrote documentation to streamline and homogenize company management, and modernize methodologies.
-
-**Quality Imaging Services**
-
-_Mar. 2017 – May 2018_, _New York, NY_
-
-Title: _Project Coordinator_
-
-- Sourced and acquired business partnerships with high-profile companies such as Läderach, Moët Hennessy, and Red Bull.
-
-- Guaranteed completion of client objectives by functioning as a liaison between client and production teams.
-
-- Created and maintained a company database of held and prospective client accounts.
 
 ## EDUCATION
 
