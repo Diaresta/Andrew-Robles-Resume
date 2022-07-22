@@ -74,6 +74,8 @@ _JavaScript, Node.js, Express_
 
 - Stores assets in local JSON files, which are fetched when parsed uploaded files match assets before being served to users.
 
+## EDUCATION
+
 **College of Staten Island, CUNY**
 
 _Aug. 2012 – April, 2016_
