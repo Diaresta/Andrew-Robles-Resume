@@ -75,6 +75,7 @@ _JavaScript, Node.js, Express_
 ## EDUCATION
 
 **College of Staten Island, CUNY** 
+
 _Aug. 2012 – April, 2016_
 
 _Bachelor of Arts in Music, Minor in French  Staten Island, NY_
