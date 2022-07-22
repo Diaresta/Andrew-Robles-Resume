@@ -1,4 +1,4 @@
-# Andrew Robles <a href="https://andrewrobles.dev/" target="_blank">[![General badge](https://img.shields.io/badge/Portfolio-c5d8a4.svg)](https://shields.io/)</a> <a href="mailto:AndrewJordanRobles@gmail.com" target="_blank">[![General badge](https://img.shields.io/badge/Gmail-red.svg)](https://shields.io/)</a> <a href="[https://www.linkedin.com/in/andrew-robles/](https://www.linkedin.com/in/andrew-robles/)" target="_blank">[![General badge](https://img.shields.io/badge/LinkedIn-blue.svg)](https://shields.io/)</a>
+# Andrew Robles <a href="https://andrewrobles.dev/" target="_blank">[![General badge](https://img.shields.io/badge/Portfolio-c5d8a4.svg)](https://andrewrobles.dev/)</a> <a href="mailto:AndrewJordanRobles@gmail.com" target="_blank">[![General badge](https://img.shields.io/badge/Gmail-red.svg)](mailto:AndrewJordanRobles@gmail.com)</a> <a href="https://www.linkedin.com/in/andrew-robles/" target="_blank">[![General badge](https://img.shields.io/badge/LinkedIn-blue.svg)](https://www.linkedin.com/in/andrew-robles/)</a>
 
 
 ## WORK EXPERIENCE
