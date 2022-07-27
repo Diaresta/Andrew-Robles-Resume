@@ -29,7 +29,7 @@ Title: _Project Coordinator_
 
 ## PORTFOLIO
 
-### ge.teller
+### [ge.teller](https://ge-teller.com)
 
 _React, Node.js, Express, MongoDB_
 
@@ -41,7 +41,7 @@ _React, Node.js, Express, MongoDB_
 
 - Stores user accounts and their respective transactions in a MongoDB database.
 
-### Draftboys
+### [Draftboys](https://www.draft-boys.com)
 
 _React, TypeScript, Node.js, Express, MongoDB_
 
@@ -53,7 +53,7 @@ _React, TypeScript, Node.js, Express, MongoDB_
 
 - Stores user contact form submissions in a MongoDB database.
 
-### Vandal
+### [Vandal](https://www.vandal-draw.com)
 
 _React_
 
@@ -63,7 +63,7 @@ _React_
 
 - Implemented drag and movement functions to allow the placement of _Valorant_ asset elements across the DOM.
 
-### Shine
+### [Shine](https://www.shinessbm.com)
 
 _JavaScript, Node.js, Express_
 
