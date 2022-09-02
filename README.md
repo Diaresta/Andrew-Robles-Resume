@@ -84,4 +84,4 @@ _Bachelor of Arts in Music, Minor in French_
 ## SKILLS
 **Proficient:** JavaScript, React, HTML, CSS/SASS, Node.js, Express, REST APIs, MongoDB, Git
 
-**Familiar:** TypeScript, Tailwind, Boostrap, SQL, Python, Flask
+**Familiar:** TypeScript, Tailwind, Bootstrap, SQL, Python, Flask
