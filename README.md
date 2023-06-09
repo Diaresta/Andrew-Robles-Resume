@@ -81,6 +81,6 @@ _Aug. 2012 – April, 2016, Staten Island, NY_
 _Bachelor of Arts in Music, Minor in French_
 
 ## SKILLS
-**Proficient:** JavaScript, TypeScript, React, HTML, CSS/SASS, Node.js, Express, REST APIs, MongoDB, Tailwind, Git
+**Proficient:** JavaScript, TypeScript, React, Java, HTML, CSS/SASS, Node.js, Express, REST APIs, MongoDB, MySQL, Tailwind, Git
 
-**Familiar:** Java, Next.js, GraphQL, Bootstrap, SQL, Python, Flask
+**Familiar:** Next.js, GraphQL, Bootstrap, Python, Flask
