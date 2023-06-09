@@ -2,9 +2,19 @@
 
 ## WORK EXPERIENCE
 
+### Dev-10
+
+_Mar. 2023 – Present_, _New York, NY_
+
+Title: _Software Engineer_  
+
+- Software Engineer @ Dev10 training- a highly selective role.
+
+- Focus in Java engineering.
+
 ### Everyday Athlete
 
-_June 2018 – Present_, _New York, NY_
+_June 2018 – Mar. 2023_, _New York, NY_
 
 Title: _Program Lead_  
 
