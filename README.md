@@ -62,26 +62,6 @@ _React, TypeScript, Node.js, Express, MongoDB_
 
 - Stores user contact form submissions in a MongoDB database.
 
-### [Vandal](https://www.vandal-draw.com)
-
-_React_
-
-- Developed and designed React site that allows users to draw and manipulate DOM elements to plan out and visualize strategies for _Valorant_.
-
-- Developed drawing tools that give users the full spectrum of colors to draw with, an array of stroke thicknesses, as well as erase and canvas clear functions to utilize.
-
-- Implemented drag and movement functions to allow the placement of _Valorant_ asset elements across the DOM.
-
-### [Shine](https://www.shinessbm.com)
-
-_JavaScript, Node.js, Express_
-
-- Developed and designed site that allows users to upload _.slp_ files, parses the file data, and serves it to users as a head-to-head UI.
-
-- Implemented multer to allow users to upload _.slp_ files.
-
-- Stores assets in local JSON files, which are fetched when parsed uploaded files match assets before being served to users.
-
 ## EDUCATION
 
 **College of Staten Island, CUNY** 
