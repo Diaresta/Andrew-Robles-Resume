@@ -6,7 +6,7 @@
 
 _Mar. 2023 – Present_, _New York, NY_
 
-Title: _Software Engineer_  
+Title: _Software Engineer @ Patterson Companies_  
 
 - Software Engineer @ Dev10 training- a highly selective role.
 
