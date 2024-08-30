@@ -6,11 +6,20 @@
 
 _Mar. 2023 – Present_, _New York, NY_
 
-Title: _Software Engineer @ Patterson Companies_  
+Title: _Software Engineer @ Patterson Companies_ (Sept. 2023 - Sept. 2024)  
 
-- Software Engineer @ Dev10 training- a highly selective role.
+- Developed and maintained Fuse, a SaaS dental practice management web application.
 
-- Focus in Java engineering.
+- Engineered and supported both our Angular and AngularJS front-end, and updated legacy AngularJS components to Angular.
+
+- Built and optimized .NET Core APIs, ensuring high performance and scalability.
+
+- Collaborated with cross-functional teams to ensure seamless integration and deployment within Azure DevOps.
+
+- Owned and automated Azure build and release pipelines using YAML-based CI/CD.
+
+- Implemented and maintained Terraform IaC patterns and pipelines, removing the need for manual generation and deployment of OpenAPI specifications.
+
 
 ### Everyday Athlete
 
@@ -71,6 +80,14 @@ _Aug. 2012 – April, 2016, Staten Island, NY_
 _Bachelor of Arts in Music, Minor in French_
 
 ## SKILLS
-**Proficient:** JavaScript, TypeScript, React, Java, Spring, HTML, CSS/SASS, Node.js, Express, REST APIs, MongoDB, MySQL, Tailwind, Git
-
 **Familiar:** Next.js, GraphQL, Bootstrap, Docker, Python, Flask
+
+**Languages:** TypeScript/JavaScript, C#, Java, HTML, CSS/SCSS
+
+**Frameworks:** Angular, AngularJS, React, Next.js, Node, .NET, Spring, Tailwind
+
+**Database/Datastores:** SQL, Azure-Key Vault, MongoDB, Redis, KQL
+
+**Tooling:** Grunt, IaC, YAML, Terraform, Git, npm, NuGet, Postman, Docker, Webpack, Vite
+
+**Services:** Azure, Dynatrace, GitHub, Vercel
