@@ -89,6 +89,6 @@ _Bachelor of Arts in Music, Minor in French_
 
 **Database/Datastores:** SQL, Azure-Key Vault, MongoDB, Redis, KQL
 
-**Tooling:** Grunt, IaC, YAML, Terraform, Git, npm, NuGet, Postman, Docker, Webpack, Vite, LaunchDarkly
+**Tooling:** Grunt, Karma, IaC, YAML, Terraform, Git, npm, NuGet, Postman, Docker, Webpack, Vite, Vitest, LaunchDarkly
 
 **Services:** Azure, Dynatrace, GitHub, Vercel
