@@ -81,7 +81,6 @@ _Aug. 2012 – April, 2016, Staten Island, NY_
 _Bachelor of Arts in Music, Minor in French_
 
 ## SKILLS
-**Familiar:** Next.js, GraphQL, Bootstrap, Docker, Python, Flask
 
 **Languages:** TypeScript/JavaScript, C#, Java, HTML, CSS/SCSS
 
