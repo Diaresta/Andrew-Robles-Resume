@@ -7,7 +7,9 @@
 
 _Mar. 2023 – Present_, _New York, NY_
 
-Title: _Software Engineer @ Patterson Companies_ (Sept. 2023 - Sept. 2024)  
+Title: _Software Engineer @ Patterson Companies_ (Sept. 2023 - Sept. 2024)
+
+<sub>_Angular/AngularJS, C#, .NET, TypeScript, Azure, SQL, KQL, Terraform, Docker, SASS, KendoUI_</sub>
 
 - Developed and maintained Fuse, a SaaS dental practice management web application.
 
