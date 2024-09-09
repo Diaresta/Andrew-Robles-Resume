@@ -6,7 +6,7 @@
 
 **Frameworks:** Angular, AngularJS, React, Next.js, Node, Express, .NET, .NET Core, ASP.NET Core, Spring, Tailwind
 
-**Database/Datastores:** SQL, Azure-Key Vault, MongoDB, Redis, KQL
+**Database/Datastores:** SQL, Azure-Key Vault, Entity Framework, MongoDB, Mongoose, Redis, KQL
 
 **Tooling:** Grunt, Karma, Azure Pipelines, Azure Policy, IaC, Git, npm, NuGet, Postman, Docker, Webpack, Vite, Vitest, LaunchDarkly
 
