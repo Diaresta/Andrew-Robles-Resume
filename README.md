@@ -1,5 +1,16 @@
 # Andrew Robles <a href="https://andrewrobles.dev/" target="_blank">[![General badge](https://img.shields.io/badge/Portfolio-c5d8a4.svg)](https://andrewrobles.dev/)</a> <a href="mailto:AndrewJordanRobles@gmail.com" target="_blank">[![General badge](https://img.shields.io/badge/Gmail-red.svg)](mailto:AndrewJordanRobles@gmail.com)</a> <a href="https://www.linkedin.com/in/andrew-robles/" target="_blank">[![General badge](https://img.shields.io/badge/LinkedIn-blue.svg)](https://www.linkedin.com/in/andrew-robles/)</a> <a href="https://drive.google.com/file/d/1kApj1-F92NyJ348c_sUxDH2RR6OP03tk/view" target="_blank">[![General badge](https://img.shields.io/badge/Resume-blueviolet.svg)](https://drive.google.com/file/d/1SIweWWnTd6XzBWQp02nHubv9TXBw5bq3/view?usp=sharing)</a>
 
+## SKILLS
+
+**Languages:** TypeScript/JavaScript, C#, Java, HTML, CSS/SCSS, YAML, XML, Terraform
+
+**Frameworks:** Angular, AngularJS, React, Next.js, Node, Express, .NET, .NET Core, ASP.NET Core, Spring, Tailwind
+
+**Database/Datastores:** SQL, Azure-Key Vault, MongoDB, Redis, KQL
+
+**Tooling:** Grunt, Karma, Azure Pipelines, Azure Policy, IaC, Git, npm, NuGet, Postman, Docker, Webpack, Vite, Vitest, LaunchDarkly
+
+**Cloud:** Azure, Dynatrace, GitHub, Vercel
 
 ## WORK EXPERIENCE
 
@@ -81,15 +92,3 @@ _React, TypeScript, Node.js, Express, MongoDB_
 _Aug. 2012 – April, 2016, Staten Island, NY_
 
 _Bachelor of Arts in Music, Minor in French_
-
-## SKILLS
-
-**Languages:** TypeScript/JavaScript, C#, Java, HTML, CSS/SCSS
-
-**Frameworks:** Angular, AngularJS, React, Next.js, Node, .NET, Spring, Tailwind
-
-**Database/Datastores:** SQL, Azure-Key Vault, MongoDB, Redis, KQL
-
-**Tooling:** Grunt, Karma, IaC, YAML, Terraform, Git, npm, NuGet, Postman, Docker, Webpack, Vite, Vitest, LaunchDarkly
-
-**Services:** Azure, Dynatrace, GitHub, Vercel
