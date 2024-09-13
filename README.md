@@ -26,7 +26,7 @@ Title: _Full-Stack Software Engineer @ Patterson Companies_ (Sept. 2023 - Sept. 
 
 - Engineered and supported both our Angular and AngularJS front-end, and updated legacy AngularJS components to Angular.
 
-- Built and optimized .NET Core APIs, ensuring high performance and scalability.
+- Built and optimized .NET APIs, ensuring high performance and scalability.
 
 - Collaborated with cross-functional teams to ensure seamless integration and deployment within Azure DevOps.
 
