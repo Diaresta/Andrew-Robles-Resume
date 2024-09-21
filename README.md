@@ -18,6 +18,8 @@
 
 _Mar. 2023 – Present_, _New York, NY_
 
+Title: _Software Engineer @ Prudential Financial_ (Sept. 2024 - Present)
+
 Title: _Full-Stack Software Engineer @ Patterson Companies_ (Sept. 2023 - Sept. 2024)
 
 <sub>_Angular/AngularJS, C#, .NET, TypeScript, Azure, SQL, KQL, Terraform, Docker, SASS, KendoUI_</sub>
@@ -33,7 +35,6 @@ Title: _Full-Stack Software Engineer @ Patterson Companies_ (Sept. 2023 - Sept. 
 - Owned and automated Azure build and release pipelines using YAML-based CI/CD.
 
 - Implemented and maintained Terraform IaC patterns and pipelines, removing the need for manual generation and deployment of OpenAPI specifications.
-
 
 ### Everyday Athlete
 
